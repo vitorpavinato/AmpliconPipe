@@ -2,9 +2,10 @@
 ## **PypeAmplicon: Python pipeline for analysis of amplicon data**
 
 **Authors:** 
+Saranga Wijeratne & Vitor A. C. Pavinato
 
-Saranga Wijeratne & Vitor Pavinato
-
+Molecular and Cellular Imaging Center (MCIC)
+The Ohio State University
 
 **CITATION**
 
