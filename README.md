@@ -8,7 +8,8 @@ Saranga Wijeratne & Vitor A. C. Pavinato
 
 **CITATION**
 
-<zenodo doi>
+Wijeratne S & Pavinato VAC. PypeAmplicon v1.0: Python pipeline for analysis of amplicon data.
+[![DOI](https://zenodo.org/badge/114859807.svg)](https://zenodo.org/badge/latestdoi/114859807)
 
 
 **INSTALLATION**
