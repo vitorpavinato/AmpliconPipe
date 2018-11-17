@@ -1,5 +1,5 @@
 
-## **PypeAmplicon: Python pipeline for analysis of amplicon data**
+## **PypeAmplicon v1.0: Python pipeline for analysis of amplicon data**
 
 **Authors:** 
 
