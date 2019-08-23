@@ -117,9 +117,9 @@ In both scripts you need to specify a BED file that contains the position of the
 
 **FUTURE IMPLEMENTATIONS**
 
-- [] include an assembly step to deal with amplicons, from the same region, with overlapping ends (w/out reference);
-- [] extende the pipeline for cases when the reference sequence is not available;
-- [] an step to infer ploidy levels based on the number of cluster of each targeted locus;
-- [] a likelihood-based and a simple count method to infer the genotype of variant position;
-- [] extend the genotyping of SNPs to the most likely haplotypes for each locus/sample;
-- [] an installation step that install all dependencies.
+- [ ] include an assembly step to deal with amplicons, from the same region, with overlapping ends (w/out reference);
+- [ ] extende the pipeline for cases when the reference sequence is not available;
+- [ ] an step to infer ploidy levels based on the number of cluster of each targeted locus;
+- [ ] a likelihood-based and a simple count method to infer the genotype of variant position;
+- [ ] extend the genotyping of SNPs to the most likely haplotypes for each locus/sample;
+- [ ] an installation step that install all dependencies.
