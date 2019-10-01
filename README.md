@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/114859807.svg)](https://zenodo.org/badge/latestdoi/114859807)
 
 ## **PypeAmplicon v1.0: Python pipeline for analysis of amplicon data**
 
@@ -8,11 +9,14 @@ Saranga Wijeratne & Vitor A. C. Pavinato
 
 **CITATION**
 
-Wijeratne S & Pavinato VAC. (2018, November 17). PypeAmplicon: 
-Python pipeline for analysis of amplicon data (Version v1.0). 
-Zenodo. http://doi.org/10.5281/zenodo.1490421
+Wijeratne S & Pavinato VAC. (2018, November 17). PypeAmplicon: Python pipeline for analysis of amplicon 
+data (Version v1.0). Zenodo. doi: http://doi.org/10.5281/zenodo.1490421
 
-[![DOI](https://zenodo.org/badge/114859807.svg)](https://zenodo.org/badge/latestdoi/114859807)
+Pavinato VAC, Wijeratne S, Spacht D, Denlinger DL, Meulia T, Michel AP. (2019, September 19). Leveraging 
+targeted sequencing for non-model species: a step-by-step guide to obtain a reduced SNP set and a 
+pipeline to automate data processing in the Antarctic Midge, *Belgica antarctica*.
+bioRxiv, 772384. doi: https://doi.org/10.1101/772384
+
 
 
 **INSTALLATION**
