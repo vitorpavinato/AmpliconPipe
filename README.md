@@ -122,4 +122,5 @@ In both scripts you need to specify a BED file that contains the position of the
 - [ ] an step to infer ploidy levels based on the number of cluster of each targeted locus;
 - [ ] a likelihood-based and a simple count method to infer the genotype of variant position;
 - [ ] extend the genotyping of SNPs to the most likely haplotypes for each locus/sample;
-- [ ] an installation step that install all dependencies.
+- [ ] an installation step that install all dependencies;
+- [ ] add argument "sam=1.3" to fix cigar incompatibilities.
